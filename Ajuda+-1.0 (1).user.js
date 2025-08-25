@@ -10,8 +10,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_deleteValue
-// @updateURL    https://github.com/alvaro-ferreira-alves/tampermonkey/edit/main/Ajuda%2B-1.0%20(1).user.js
-// @downloadURL  https://github.com/alvaro-ferreira-alves/tampermonkey/edit/main/Ajuda%2B-1.0%20(1).user.js
+// @updateURL    https://github.com/alvaro-ferreira-alves/tampermonkey/raw/refs/heads/main/Ajuda+-1.0%20(1).user.js
+// @downloadURL  https://github.com/alvaro-ferreira-alves/tampermonkey/raw/refs/heads/main/Ajuda+-1.0%20(1).user.js
 // @icon         https://parceiro.sky.com.br/favicon.ico
 // ==/UserScript==
 
